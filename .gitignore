@@ -1,0 +1,20 @@
+# Credenziali - NON COMMITTARE MAI
+chiave.json
+*.json
+!package.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
